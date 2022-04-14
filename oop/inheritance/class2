@@ -1,0 +1,4 @@
+from class3 import Verification
+
+class V2(Verification):
+    
