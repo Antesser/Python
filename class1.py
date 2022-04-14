@@ -1,3 +1,4 @@
 #from tkinter import TK
 
-x = 
+x = [7,8]
+print(type(x))
